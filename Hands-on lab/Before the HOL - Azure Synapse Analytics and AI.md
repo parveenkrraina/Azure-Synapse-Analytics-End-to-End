@@ -63,7 +63,7 @@ Microsoft and the trademarks listed at <https://www.microsoft.com/en-us/legal/in
 
 ### Task 1: Download the current lab assets
 
-1. Access the [GitHub repository page](https://github.com/microsoft/MCW-Azure-Synapse-Analytics-and-AI).
+1. Access the [GitHub repository page](https://github.com/parveenkrraina/Azure-Synapse-Analytics-End-to-End/blob).
 
 2. Toward the right side of the screen, expand the **Code** button menu.
 
@@ -120,7 +120,7 @@ Microsoft and the trademarks listed at <https://www.microsoft.com/en-us/legal/in
 2. In the Cloud Shell window, enter the following command to clone the repository files.
 
     ```PowerShell
-    git clone https://github.com/microsoft/MCW-Azure-Synapse-Analytics-and-AI.git Synapse-MCW
+    git clone https://github.com/parveenkrraina/Azure-Synapse-Analytics-End-to-End. Synapse-MCW
     ```
 
 3. Keep the Cloud Shell open.
